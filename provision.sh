@@ -1,3 +1,4 @@
+sudo cp /vagrant/sources.list /etc/apt/sources.list
 sudo apt-get update
 sudo apt-get -y install apache2
 sudo apt-get -y install php5
